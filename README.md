@@ -39,9 +39,9 @@ Para utilizar este proyecto, sigue estos pasos:
 
 <pre>
 ├── github.url
+├── lgarrido_UDD_Proyecto_M7.ipynb
 ├── LICENSE
 ├── README.md
-├── UDD_Proyecto_M7.ipynb
 ├── requirement.txt
 ├── svc.pkl
 └── data
