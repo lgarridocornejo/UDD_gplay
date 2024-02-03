@@ -31,6 +31,32 @@ Para utilizar este proyecto, sigue estos pasos:
 2. Instala las dependencias necesarias especificadas en `requirements.txt`.
 3. Ejecuta el script principal para entrenar y evaluar el modelo.
 
+## Contenido
+
+data: Carpeta donde se almacenan los set de datos
+lib: Carpeta que contiene un par de librerias personales
+story: Carpeta con la presentación del proyecto, con y sin notas del autor.
+
+<pre>
+├── LICENSE
+├── README.md
+├── UDD_Proyecto_M7.ipynb
+├── requirement.txt
+├── svc.pkl
+└── data
+    ├── googleplaystore.csv
+    ├── googleplaystore_user_reviews.csv
+    ├── license.txt
+    └── play.png
+|-- lib
+    ├── examinar.py
+    └── normalizacion.py
+|-- story
+    ├── examinar.py
+    └── normalizacion.py
+
+</pre>
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estos pasos:
