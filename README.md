@@ -38,6 +38,7 @@ Para utilizar este proyecto, sigue estos pasos:
 3. story: Carpeta con la presentación del proyecto, con y sin notas del autor.
 
 <pre>
+├── github.url
 ├── LICENSE
 ├── README.md
 ├── UDD_Proyecto_M7.ipynb
@@ -48,10 +49,10 @@ Para utilizar este proyecto, sigue estos pasos:
     ├── googleplaystore_user_reviews.csv
     ├── license.txt
     └── play.png
-|-- lib
+├── lib
     ├── examinar.py
     └── normalizacion.py
-|-- story
+├── story
     ├── examinar.py
     └── normalizacion.py
 
