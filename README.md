@@ -53,8 +53,8 @@ Para utilizar este proyecto, sigue estos pasos:
     ├── examinar.py
     └── normalizacion.py
 ├── story
-    ├── examinar.py
-    └── normalizacion.py
+    ├── google_play_notas.pdf
+    └── google_play.pdf
 
 </pre>
 
