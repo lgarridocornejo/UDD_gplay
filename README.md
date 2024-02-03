@@ -33,9 +33,9 @@ Para utilizar este proyecto, sigue estos pasos:
 
 ## Contenido
 
-data: Carpeta donde se almacenan los set de datos
-lib: Carpeta que contiene un par de librerias personales
-story: Carpeta con la presentación del proyecto, con y sin notas del autor.
+1. data: Carpeta donde se almacenan los set de datos
+2. lib: Carpeta que contiene un par de librerias personales
+3. story: Carpeta con la presentación del proyecto, con y sin notas del autor.
 
 <pre>
 ├── LICENSE
