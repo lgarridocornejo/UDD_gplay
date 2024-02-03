@@ -41,8 +41,8 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue 
 
 ## Contacto
 
-Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con [Nombre del Autor](enlace-al-perfil-de-github).
+Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con [Nombre del Autor](https://github.com/lgarridocornejo).
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la [ GNU General Public License v3.0](LICENSE).
